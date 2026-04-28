@@ -1,6 +1,7 @@
 node_modules/
 server/dist/
 server/public/
+client/dist/
 server/.env
 .env
 *.log
